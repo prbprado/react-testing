@@ -1,0 +1,27 @@
+{
+  "name": "react-testing",
+  "version": "1.0.0",
+  "description": "testing react",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \"Alright girl...\" && exit1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prbprado/react-testing.git"
+  },
+  "keywords": [
+    "react",
+    "node"
+  ],
+  "author": "prbprado (prbprado@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prbprado/react-testing/issues"
+  },
+  "homepage": "https://github.com/prbprado/react-testing#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-bootstrap": "^0.29.4"
+  }
+}
