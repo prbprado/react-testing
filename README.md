@@ -19,5 +19,7 @@ React é uma biblioteca JavaScript para construir UI.
 Você pode encontrar outros exemplos no [site oficial](https://facebook.github.io/react/). Aqui serão apresentados estudos de uma amadora, rs.
 
 Para construir esse material foi utilizado o node, bower e vontade de aprender.
+
 [npm init](https://docs.npmjs.com/files/package.json) - para construir o package.json
+
 [npm install](https://docs.npmjs.com/cli/install) - para instalar as dependencies do React
