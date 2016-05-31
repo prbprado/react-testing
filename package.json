@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/prbprado/react-testing#readme",
   "dependencies": {
-    "react": "^15.1.0",
-    "react-bootstrap": "^0.29.4"
+    "react": "^15.1.0"
   }
 }
